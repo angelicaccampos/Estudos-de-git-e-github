@@ -9,12 +9,12 @@ Repositorios para armazenar o resultado dos meus estudos de Princípios de Desen
 
 ## 🖥 Aulas de Versionamento de Código com Git e GitHub
 
-|Aulas |Notas|
+|Aulas |Conteudos|
 |-----|-----|
-|Visão Geral do Curso e Ferramentas|[Notas no Notion](file:///C:/Users/angel/OneDrive/Área%20de%20Trabalho/git%20e%20github/Primeiros%20Passos%20com%20Git%20e%20GitHub%201a8c351c51ad498ea3e5d5bba21e2239.pdf)|
-|Instalação, Config e Autenticação|[Notas no Notion](https://www.notion.so/Contribuindo-em-um-Projeto-Open-Source-no-GitHub-61d89ba60dad4f18a1f748e2997802f8?pvs=4)|
-|Primeiros Passos com Git e GitHub|[Notas no Notion](https://www.notion.so/Contribuindo-em-um-Projeto-Open-Source-no-GitHub-61d89ba60dad4f18a1f748e2997802f8?pvs=4)|
-|Dicas e Materiais de Apoio|[Notas no Notion](https://www.notion.so/Contribuindo-em-um-Projeto-Open-Source-no-GitHub-61d89ba60dad4f18a1f748e2997802f8?pvs=4)|
+|Aula 1 |Visão Geral do Curso e Ferramentas|
+|Aula 2 |Instalação, Config e Autenticação|
+|Aula 3 |Primeiros Passos com Git e GitHub|
+|Aula 4 |Dicas e Materiais de Apoio|
 
 
 ## ⏲ Status do Repositório
